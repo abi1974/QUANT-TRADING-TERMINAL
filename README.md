@@ -2,7 +2,7 @@
 
 ### AI-Powered Quantitative Trading Research & Portfolio Analytics Platform
 
-![Banner Image](images/banner.png)
+![Banner Image](single.png)
 
 ---
 
@@ -197,7 +197,7 @@ Detects abnormal trading activity.
 
 # Feature Pipeline
 
-![Feature Engineering](images/feature_engineering.png)
+![Feature Engineering](live.png)
 
 ```text
 Raw OHLCV Data
@@ -314,7 +314,7 @@ For cryptocurrencies:
 
 # Backtesting Engine
 
-![Backtesting](images/backtesting.png)
+![Backtesting](walkforward.png)
 
 The backtesting framework simulates historical trading performance.
 
@@ -396,7 +396,7 @@ Total executed trades.
 
 # Portfolio Analytics Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](batch.png)
 
 Visualizations include:
 
@@ -420,7 +420,7 @@ Strategy performance across assets.
 
 # Order Book Visualization
 
-![Order Book](images/orderbook.png)
+![Order Book](orderbook.png)
 
 Displays:
 
@@ -440,7 +440,7 @@ Useful for:
 
 # Factor Attribution Analysis
 
-![Factor Attribution](images/factor_importance.png)
+![Factor Attribution](comparison.png)
 
 The platform estimates feature importance by measuring prediction sensitivity.
 
