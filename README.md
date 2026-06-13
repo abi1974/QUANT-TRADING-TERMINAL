@@ -2,7 +2,7 @@
 
 ### AI-Powered Quantitative Trading Research & Portfolio Analytics Platform
 
-![Banner Image](single.png)
+![Banner Image](singles.png)
 
 ---
 
