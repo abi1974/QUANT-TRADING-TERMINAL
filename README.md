@@ -607,7 +607,7 @@ Suitable for:
 
 # Disclaimer
 
-This project is intended for educational, research, and experimental purposes only.
+This project is intended only for educational, research, and experimental purposes.
 
 It does not constitute financial advice, investment recommendations, or guarantees of future performance.
 
